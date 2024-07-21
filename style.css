@@ -121,7 +121,7 @@ header .navigation a:hover{
   transform: scale(1.5);
 }
 label{
-  display: name;
+  display: none;
 }
 #check{
   z-index: 3;
